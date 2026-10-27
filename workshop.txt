@@ -1,0 +1,15 @@
+version=1
+id=3014829589
+title=Authentic Z - Lite [FIX]
+description=This fix removes unnecessary, non-existent, crooked objects, clothes, for example, Aqua, Gym Bottles, School Bag and corrects the Russian translation. The main mod is required to work. This mod was created for the Authentic Z Lite version, it is unknown how this mod works with other versions of Authentic Z
+description=
+description=Authentic Z:
+description=
+description=https://steamcommunity.com/sharedfiles/filedetails/?id=2335368829
+description=
+description=Thanks to Authentic Peach for creating the original mod.
+description=
+description=Workshop ID: 3014829589
+description=Mod ID: AuthenticZLiteFix
+tags=Build 41;Clothing/Armor;Items;Language/Translation;Models;Multiplayer;Pop Culture;Realistic;Textures
+visibility=public

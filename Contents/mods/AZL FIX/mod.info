@@ -1,0 +1,7 @@
+name=Authentic Z - Lite [Fix]
+id=AuthenticZLiteFix
+pzversion=41
+tags=Zombie,Realistic
+icon=logo_AZ_Clown.png
+poster=poster.png
+require=AuthenticZLite
